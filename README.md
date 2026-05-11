@@ -1,4 +1,4 @@
-[![Docker Image CI](https://github.com/MachEntertainment/motortown/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MachEntertainment/motortown/actions/workflows/docker-image.yml) [![Docker Build and Publish](https://github.com/dominicrico/motortown/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/dominicrico/motortown/actions/workflows/docker-publish.yml)
+[![Docker Image CI](https://github.com/MachEntertainment/motortown/actions/workflows/docker-image.yml/badge.svg)](https://github.com/MachEntertainment/motortown/actions/workflows/docker-image.yml) [![Docker Build and Publish](https://github.com/MachEntertainment/motortown/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/MachEntertainment/motortown/actions/workflows/docker-publish.yml)
 
 # What is Motor Town?
 Motor Town: Behind The Wheel is an open-world driving simulator that combines realistic vehicle physics with a variety of activities like deliveries, racing, and taxi driving. It features single-player and multiplayer modes, offering a relaxing yet engaging driving experience.
